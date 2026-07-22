@@ -75,3 +75,7 @@ For instant evaluation during judge review:
    - Observe >=95% Confidence score, Source Document title, Page 4 reference, and citation quote.
 4. Test **Anti-Hallucination**: Ask an unrelated sports/general question (e.g., *"Who won the 1970 World Cup?"*) and verify the response: `"I could not find this information in uploaded documents."`
 5. Test **PDF Report Generator** under `/reports` to download synthesized PDF reports.
+
+
+TEAM -  Ai Titans 
+MEMBERS - Sonam, Pawan, Shruti, Vishwas
